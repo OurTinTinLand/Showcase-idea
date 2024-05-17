@@ -78,7 +78,13 @@ If you want to join the Hackathon &amp; Bounty Team, join Discord: https://disco
 - [【liquid staking｜Starknet｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/20)
 
 - [【PublishStation｜Starknet｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/22)
-
+  
+- [【starkent-erc404｜Starknet｜Winner of the Starknet bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/46#issue-2302042057)
+  
+- [【zk orderbook dex｜Starknet｜Winner of the Starknet bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/47#issue-2302049007)
+  
+- [【Guess 2/3 of the Average Game｜Starknet｜Winner of the Starknet bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/48#issue-2302051899)
+  
 ### Move
 
 - [【Moveflow｜Sui｜Seed Round & Dorahacks Aptos Grant R2】](https://github.com/OurTinTinLand/Showcase-idea/issues/32)
