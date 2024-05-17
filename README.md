@@ -60,6 +60,18 @@ If you want to join the Hackathon &amp; Bounty Team, join Discord: https://disco
 - [【Todo｜Solana｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/16)
 
 - [【Marmot Network｜Solana｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/24)
+- [【Soltrivia｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/49#issue-2302070464)
+- [【Arcx｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/50#issue-2302072830)
+- [【Proof Of Mind｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/51#issue-2302104040)
+- [【Apus network｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/52#issue-2302107296)
+- [【HealthTech Acutions｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/53#issue-2302111304)
+- [【Laco.ai｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/54#issue-2302113859)
+- [【eco-website｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/55#issue-2302115766)
+- [【iNFT｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/56#issue-2302117368)
+- [【Open Biobank｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/57#issue-2302119843)
+- [【Satoshi AI｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/58#issue-2302121480)
+- [【Web3 XR｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/59#issue-2302122945)
+- [【Wishwall｜Solana｜2024 Solana Hackathon】](https://github.com/OurTinTinLand/Showcase-idea/issues/60#issue-2302124587)
 
 ### Near
 
