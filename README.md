@@ -78,3 +78,35 @@ If you want to join the Hackathon &amp; Bounty Team, join Discord: https://disco
 - [【liquid staking｜Starknet｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/20)
 
 - [【PublishStation｜Starknet｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/22)
+
+### Move
+
+- [【Moveflow｜Sui｜Seed Round & Dorahacks Aptos Grant R2】](https://github.com/OurTinTinLand/Showcase-idea/issues/32)
+
+- [【Move Airdropper｜Sui｜Dorahacks Aptos Grant R2】](https://github.com/OurTinTinLand/Showcase-idea/issues/41)
+
+- [【Aptos NFT Marketplace｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/31)
+
+- [【MoveCraft｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/33)
+ 
+- [【MoveGroup｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/34)
+
+- [【Aptos FT & NFT｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/35)
+
+- [【ZK demo based on sui｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/36)
+
+- [【MoveFlow TypeScript SDK on Sui｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/37)
+
+- [【基于 Sui 的 Shell 权限管理｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/38)
+
+- [【Sui Disperse｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/39)
+
+- [【Sui Upgrade Framework 优化｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/40)
+
+- [【scafford-sui｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/42)
+
+- [【MoveDID｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/43)
+
+- [【scaffold-aptos｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/44)
+
+- [【Sui-based SBT｜Sui】](https://github.com/OurTinTinLand/Showcase-idea/issues/45)
