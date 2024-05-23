@@ -32,6 +32,9 @@ If you want to join the Hackathon &amp; Bounty Team, join Discord: https://disco
 - [【Web3 Plugin Polkadot｜Polkadot】](https://github.com/OurTinTinLand/Showcase-idea/issues/10)
 
 - [【Cyborg Network｜Polkadot】](https://github.com/OurTinTinLand/Showcase-idea/issues/11)
+- [【Energy-bidding｜Polkadot｜Winner of the 3rd Rust Bounty Mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/61#issue-2311854197)
+- [【FuBan｜Polkadot｜Winner of the 3rd Rust Bounty Mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/62#issue-2311856033)
+- [【POECenter｜Polkadot｜Winner of the 3rd Rust Bounty Mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/63#issue-2311856719)
 
 ### ICP
 
@@ -84,6 +87,7 @@ If you want to join the Hackathon &amp; Bounty Team, join Discord: https://disco
 - [【CrowdFunding｜Near｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/21)
 
 - [【Dairy NFT｜Near｜Winner at 'Rust Course Challenge'】](https://github.com/OurTinTinLand/Showcase-idea/issues/23)
+- [【Celestial Tarot｜Near｜Winner of the 3rd Rust Bounty Mission 】](https://github.com/OurTinTinLand/Showcase-idea/issues/64#issue-2311859011)
 
 ### Starknet
 
