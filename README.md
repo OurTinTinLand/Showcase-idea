@@ -103,6 +103,44 @@ If you want to join the Hackathon &amp; Bounty Team, join Discord: https://disco
   
 ### Move
 
+- [【sui-zk-redpack｜SUI｜Winner of the Move bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/67)
+-
+- [【sui-wormhole-native-token-transfer｜SUI｜Winner of the Move bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/68)
+ 
+- [【wrap protocol｜SUI｜Winner of the Move bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/66)
+
+- [【Mine Clearance｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/65)
+
+- [【move-gpt｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/69)
+
+- [【memenow｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/70)
+
+- [【INFT｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/71)
+
+- [【Mystic｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/72)
+
+- [【Pet Passport｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/73)
+
+- [【Touch｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/74)
+
+- [【letscoloring｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/75)
+
+- [【FOX Swap｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/76)
+
+- [【SimpleUniV2｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/77)
+
+- [【random-x｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/78)
+
+- [【CommuSui｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/79)
+
+- [【digital contract verification｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/80)
+
+- [【SuiHypnoHealth｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/81)
+
+- [【ChainChat｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/82)
+
+- [【suily｜SUI｜Sui Overflow】](https://github.com/OurTinTinLand/Showcase-idea/issues/83)
+
 - [【Moveflow｜Sui｜Seed Round & Dorahacks Aptos Grant R2】](https://github.com/OurTinTinLand/Showcase-idea/issues/32)
 
 - [【Move Airdropper｜Sui｜Dorahacks Aptos Grant R2】](https://github.com/OurTinTinLand/Showcase-idea/issues/41)
