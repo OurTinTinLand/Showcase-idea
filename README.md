@@ -104,7 +104,7 @@ If you want to join the Hackathon &amp; Bounty Team, join Discord: https://disco
 ### Move
 
 - [【sui-zk-redpack｜SUI｜Winner of the Move bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/67)
--
+
 - [【sui-wormhole-native-token-transfer｜SUI｜Winner of the Move bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/68)
  
 - [【wrap protocol｜SUI｜Winner of the Move bounty mission】](https://github.com/OurTinTinLand/Showcase-idea/issues/66)
